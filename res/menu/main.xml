@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/configuracao"/>
+    
+    <item
+        android:id="@+id/action_logSMS"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/log_sms"/>
+
+</menu>

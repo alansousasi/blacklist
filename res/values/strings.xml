@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlackList</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_configuracao">Configurações</string>
+    <string name="configuracao">Configurações</string>
+    <string name="bloquearLigacaoForaDaAgenda">Bloquear ligações de números fora da agenda.</string>
+    <string name="bloquearBlackList">Bloquear ligações/SMS de números da black list.</string>
+    <string name="bloquearSMSForaDaAgenda">Bloquear SMS de números fora da agenda.</string>
+    <string name="salvar">Salvar</string>
+    <string name="title_activity_log_sms">SMS\'s bloqueados</string>
+    <string name="log_sms">Log\'s SMS</string>
+
+</resources>
